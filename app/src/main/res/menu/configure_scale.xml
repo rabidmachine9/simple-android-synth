@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.deepmeditation.myapplication.ScaleActivity" >
+    <item android:id="@+id/action_piano"
+        android:title="Play"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_config_synth"
+        android:title="Synth Config"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
